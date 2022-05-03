@@ -1,5 +1,5 @@
 ---
-path: "/rescoources/"
+path: "/resources/"
 slug: "/resources/contribute"
 date: "2022-11-11"
 title: "Contribute"
