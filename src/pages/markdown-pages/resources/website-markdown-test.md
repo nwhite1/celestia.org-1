@@ -5,6 +5,14 @@ edit: "https://github.com/alexbeckettt/celestia.org/blob/contribute-markdown-tes
 title: "Contribute"
 ---
 
+<style>
+a{
+    color:purple;
+}
+</style>
+
+"The Celesita community includes people of many different backgrounds and skillsets. Whether you’re a developer, an artist, or an accountant, there are ways to get involved. Here’s a list of suggestions that might help you get started."
+
 #### Developer
 - View the Celestia github [repos](https://github.com/celestiaorg)
     - Easier issues have been marked with "good first issue"
