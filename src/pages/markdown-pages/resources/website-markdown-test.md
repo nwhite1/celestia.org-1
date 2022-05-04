@@ -11,9 +11,7 @@ a{
 }
 </style>
 
-"The Celesita community includes people of many different backgrounds and skillsets. Whether you’re a developer, an artist, or an accountant, there are ways to get involved. Here’s a list of suggestions that might help you get started."
-
-<br></br>
+"The Celesita community includes people of many different backgrounds and skillsets. Whether you’re a developer, an artist, or an accountant, there are ways to get involved. Here’s a list of suggestions that might help you get started." <br>
 
 #### Developer
 - View the Celestia github [repos](https://github.com/celestiaorg)
