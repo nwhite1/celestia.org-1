@@ -2,23 +2,29 @@
 path: "/resources/"
 slug: "/resources/contribute"
 edit: "https://github.com/alexbeckettt/celestia.org/blob/contribute-markdown-test/src/pages/markdown-pages/resources/website-markdown-test.md"
-date: "2022-11-11"
 title: "Contribute"
 ---
 
-#### Guide on how to contribute to Celestia
+#### Developer
+- View the Celestia github [repos](https://github.com/celestiaorg)
+    - Easier issues have been marked with "good first issue"
+- Experiment with the [devnet](https://github.com/celestiaorg/networks)
+- stay up to date with development [progress](https://github.com/celestiaorg/community-calls)
 
-What ways can people contribute in a non-dev way?
-- Write a twitter thread
-- Write a blog post
-- Engage in the forum
-- Translate content on the celestia website
-- contribute content to the website (learn modular?)
-- Open a PR (to the website - this maybe have a tutorial on how to do this since this is for non-devs)
-- run a node on devnet (I should be able to make a tutorial on setup up a light node? - if i cant do it then thats a bad sign)
+#### Research
+- Contribute research or give feedback on current research in the [forum](https://forum.celestia.org/c/research/5)
 
-#### Guide if you're a dev
-- this and that
+#### Non-technical
 
-#### Guide if you're a research
-- this and that
+##### Write content about Celestia
+-  Write and publish content to  your own and publish to own channels
+-  Make contributions to existing content on [Celestia.org](https://github.com/celestiaorg/celestia.org/tree/main/src/pages/markdown-pages/learn)
+
+##### Participate in community calls
+- Watch or particpate in the community [calls]((https://github.com/celestiaorg/community-calls))
+
+##### Run a node on the devnet
+- Experiment and practice running a node on devnet in preparation for [mainnet](https://docs.celestia.org/nodes/overview)
+
+##### Translate content
+- Translate existing content about Celestia into your native language or from your native language to English
