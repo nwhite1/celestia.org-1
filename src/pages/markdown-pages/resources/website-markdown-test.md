@@ -8,7 +8,7 @@ title: "Contribute"
 "The Celesita community includes people of many different backgrounds and skillsets. Whether you’re a developer, an artist, or an accountant, there are ways to get involved. Here’s a list of suggestions that might help you get started." <br>
 
 #### Developer
-- View the Celestia github [repos](https://github.com/celestiaorg)
+- View the Celestia github <a href="https://github.com/celestiaorg" style="color:$purple;">repos</a>
 - Experiment with the [devnet](https://github.com/celestiaorg/networks)
 - stay up to date with development [progress](https://github.com/celestiaorg/community-calls)
 
