@@ -1,10 +1,14 @@
 ---
 path: "/resources/"
 slug: "/resources/skill-tree"
-date: "2022-10-11"
 title: "The Celestia skill tree"
 ---
 
+<style>
+  a{
+  color: purple;
+  }
+</style>
 
 #### Basics
 
